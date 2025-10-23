@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Inauguration Ceremony",
+    "description": "The grand opening ceremony of IICM 2025, featuring keynote addresses and performances.",
+    "date": "2025-10-23",
+    "start_time": "09:30:00",
+    "end_time": "11:00:00",
+    "venue": "Main Auditorium",
+    "created_at": "2025-10-10T08:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "AI and Innovation Summit",
+    "description": "Panel discussion on Artificial Intelligence and innovation in modern technology.",
+    "date": "2025-10-24",
+    "start_time": "13:30:00",
+    "end_time": "17:30:00",
+    "venue": "Seminar Hall 1",
+    "created_at": "2025-10-10T08:10:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Startup Pitch Round",
+    "description": "Young entrepreneurs showcase their innovative startups to investors and mentors.",
+    "date": "2025-10-25",
+    "start_time": "10:00:00",
+    "end_time": "13:00:00",
+    "venue": "Innovation Hub",
+    "created_at": "2025-10-10T09:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Cultural Evening",
+    "description": "An evening filled with music, dance, and cultural performances by students.",
+    "date": "2025-10-25",
+    "start_time": "18:00:00",
+    "end_time": "20:30:00",
+    "venue": "Open Air Theatre",
+    "created_at": "2025-10-10T10:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Hackathon Finale",
+    "description": "Final presentations and results announcement of the IICM Hackathon 2025.",
+    "date": "2025-10-26",
+    "start_time": "09:00:00",
+    "end_time": "12:30:00",
+    "venue": "Tech Hall",
+    "created_at": "2025-10-10T11:00:00Z"
+  }
+]
